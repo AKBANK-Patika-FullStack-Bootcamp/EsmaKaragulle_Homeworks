@@ -4,7 +4,9 @@
 ![part1](https://github.com/AKBANK-Patika-FullStack-Bootcamp/EsmaKaragulle_Homeworks/blob/master/homework-6-frontend/img/3.png)
 
 # Part 2
-yarin yapcam ins.
+## high order function kullanilarak ozel bir toplama islemi gerceklestirildi.
+
+![part2](https://github.com/AKBANK-Patika-FullStack-Bootcamp/EsmaKaragulle_Homeworks/blob/master/homework-6-frontend/img/grls.png)
 
 # Part 3
 ## string reverse islemi icin 4 farkli yontem yazildi.
